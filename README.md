@@ -20,7 +20,7 @@ The details of the ablation study are provided in [Ablation](Ablation).
 To run AgentInspect, one needs to create a virtual environment. The instructions for creating a virtual environment and how to use AgentInspect are provided in [readme.txt](Agent_Inspect/readme.txt). Follow the instructions to reproduce the results.
 
 # Agent_Inspect_Misalignment
-The implementation for extending the approach for semantic-level failures is available in [Agent_Inspect_Misalignment]([Agent_Inspect/readme.txt]()). 
+The implementation for extending the approach for semantic-level failures is available in [Agent_Inspect_Misalignment](Agent_Inspect_Misalignment). 
 
 # Agents
 The detailed description of the test inputs used to evaluate each agent, along with the results obtained from different approaches, is provided in [Agents](Agents).
